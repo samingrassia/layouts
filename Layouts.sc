@@ -1,6 +1,6 @@
 /*
 	License: http://www.gnu.org/licenses/gpl-3.0.txt
-	Author: Sam Ingrassia - sam@samingrassia.com
+	Author: Sam Ingrassia - samingrassia.com
 */
 	Layouts {
 		classvar <>layouts;
